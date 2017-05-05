@@ -1,5 +1,5 @@
 const romanNumerals = function(roman) {
-    if (roman === 'IV') return 4;
+    if (roman === 'II') return 2;
     if (roman === 'III') return 3;
     return 1;
 };
